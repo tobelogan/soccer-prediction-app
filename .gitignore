@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+.pytest_cache/
+.cache/
+.streamlit/secrets.toml
+advanced_data_auto/
+*.joblib
+predictions.csv
+*.part
